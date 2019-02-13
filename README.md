@@ -9,7 +9,7 @@ Hackintosh information and files for HP Pavillion ck069tx laptop
 The exact setup of my system is a triple boot with arch linux as daily driver, windows as a fallback and rock solid base and finally capping of with mac os for the purpose of swift coding.
 
 The arch distro used is Manjaro with gnome customized with exact details on a different repo.
-The mac os version is the Mojave one but installed using a distro and dsdt patches given.
+The mac os version is the High Sierra one but installed using a distro and dsdt patches given.
 
 ## Hardware
 The system currently contains :
