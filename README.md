@@ -1,10 +1,10 @@
 # Hackintosh
-Hackintosh information and files for HP Pavillion ck series laptop
+Hackintosh information and files for HP Pavillion ck069tx laptop
 ## What is there
-There are dsdt files available to disable discrete graphics.
-Installer links
-Guides (Not Vanilla)
-Patches as the issues arrive
+- There are dsdt files available to disable discrete graphics.
+- Installer links
+- Guides (Not Vanilla)
+- Patches as the issues arrive
 ## Setup
 The exact setup of my system is a triple boot with arch linux as daily driver, windows as a fallback and rock solid base and finally capping of with mac os for the purpose of swift coding.
 
@@ -23,3 +23,4 @@ Hence the system is pretty much stock with only Hard drive replaced
 
 ## Reasons
 - Discrete graphics don't work, even with nv_disable=1
+## Issues
